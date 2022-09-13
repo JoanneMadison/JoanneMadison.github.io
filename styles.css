@@ -144,6 +144,19 @@ body {
 
 }
 
+.profile-image-wrapper .headshot{
+
+  position: relative;
+  top: -183px;
+}
+
+.profile-image-wrapper .headshot2{
+
+  position: relative;
+  top: 30px;
+}
+
+
 .profile-content-wrapper {
   padding: 30px;
   color: #cc66ff;
